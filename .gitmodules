@@ -10,11 +10,11 @@
 	path = submodules/HoardRdma
 	url = https://github.com/mlr-msft/Hoard.git
 	branch = msft/rdma
-[submodule "submodules/dpdk"]
-    path = submodules/dpdk
-    url = https://github.com/PisonJay/dpdk.git
-	branch = fix-ar
 [submodule "submodules/mimalloc"]
 	path = submodules/mimalloc
 	url = https://github.com/microsoft/mimalloc.git
 	branch = master
+[submodule "submodules/dpdk"]
+	path = submodules/dpdk
+	url = https://github.com/PisonJay/dpdk
+	branch = fix-ar
