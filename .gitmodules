@@ -18,3 +18,4 @@
 	path = submodules/dpdk
 	url = https://github.com/PisonJay/dpdk
 	branch = fix-ar
+	ignore = dirty
